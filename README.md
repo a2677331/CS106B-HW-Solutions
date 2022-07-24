@@ -1,4 +1,4 @@
-# 📕 CS106B-HW (CPPs only)
+# 📕 CS106B-HWs (CPPs only)
 ### My Solutions to CS106B Homework: Programming Abstractions 2018
 ✅ All DONE.
 
